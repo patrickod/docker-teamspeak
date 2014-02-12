@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:12.10
 MAINTAINER Patrick O'Doherty <p@trickod.com>
 
 RUN apt-get -y install curl
